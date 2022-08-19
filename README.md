@@ -4,6 +4,8 @@
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 
+py -3 -m venv venv
+
 .\venv\Scripts\activate
 
 pip install -e .
