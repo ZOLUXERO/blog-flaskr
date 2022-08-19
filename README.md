@@ -20,6 +20,6 @@ entrar a http://127.0.0.1:5000 y revisar
 
 
 --------------------- 
-ej:
-
 https://github.com/pallets/flask/tree/2.1.3/examples/tutorial
+
+https://flask.palletsprojects.com/en/2.1.x/tutorial/layout/
